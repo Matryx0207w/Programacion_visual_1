@@ -1,0 +1,11 @@
+E:\Programacion visual 1\AplicacionCompleta\AplicacionCompleta\obj\Debug\AplicacionCompleta.csproj.AssemblyReference.cache
+E:\Programacion visual 1\AplicacionCompleta\AplicacionCompleta\obj\Debug\AplicacionCompleta.MainForm.resources
+E:\Programacion visual 1\AplicacionCompleta\AplicacionCompleta\obj\Debug\AplicacionCompleta.Properties.Resources.resources
+E:\Programacion visual 1\AplicacionCompleta\AplicacionCompleta\obj\Debug\AplicacionCompleta.csproj.GenerateResource.cache
+E:\Programacion visual 1\AplicacionCompleta\AplicacionCompleta\obj\Debug\AplicacionCompleta.csproj.CoreCompileInputs.cache
+E:\Programacion visual 1\AplicacionCompleta\AplicacionCompleta\bin\Debug\AplicacionCompleta.exe.config
+E:\Programacion visual 1\AplicacionCompleta\AplicacionCompleta\bin\Debug\AplicacionCompleta.exe
+E:\Programacion visual 1\AplicacionCompleta\AplicacionCompleta\bin\Debug\AplicacionCompleta.pdb
+E:\Programacion visual 1\AplicacionCompleta\AplicacionCompleta\obj\Debug\AplicacionCompleta.exe
+E:\Programacion visual 1\AplicacionCompleta\AplicacionCompleta\obj\Debug\AplicacionCompleta.pdb
+E:\Programacion visual 1\AplicacionCompleta\AplicacionCompleta\obj\Debug\AplicacionCompleta.exe.config
