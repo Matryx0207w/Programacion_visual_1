@@ -1,0 +1,10 @@
+C:\Users\Neftaly\source\repos\Gestor de tarea\Gestor de tarea\bin\Debug\Gestor de tarea.exe.config
+C:\Users\Neftaly\source\repos\Gestor de tarea\Gestor de tarea\bin\Debug\Gestor de tarea.exe
+C:\Users\Neftaly\source\repos\Gestor de tarea\Gestor de tarea\bin\Debug\Gestor de tarea.pdb
+C:\Users\Neftaly\source\repos\Gestor de tarea\Gestor de tarea\obj\Debug\Gestor de tarea.csproj.AssemblyReference.cache
+C:\Users\Neftaly\source\repos\Gestor de tarea\Gestor de tarea\obj\Debug\Gestor_de_tarea.Properties.Resources.resources
+C:\Users\Neftaly\source\repos\Gestor de tarea\Gestor de tarea\obj\Debug\Gestor de tarea.csproj.GenerateResource.cache
+C:\Users\Neftaly\source\repos\Gestor de tarea\Gestor de tarea\obj\Debug\Gestor de tarea.csproj.CoreCompileInputs.cache
+C:\Users\Neftaly\source\repos\Gestor de tarea\Gestor de tarea\obj\Debug\Gestor de tarea.exe
+C:\Users\Neftaly\source\repos\Gestor de tarea\Gestor de tarea\obj\Debug\Gestor de tarea.pdb
+C:\Users\Neftaly\source\repos\Gestor de tarea\Gestor de tarea\obj\Debug\Gestor de tarea.exe.config
