@@ -1,0 +1,22 @@
+C:\Users\talle\Downloads\frieren x matrix\frieren x matrix\obj\Debug\frieren x matrix.csproj.AssemblyReference.cache
+C:\Users\talle\Downloads\frieren x matrix\frieren x matrix\obj\Debug\frieren_x_matrix.Properties.Resources.resources
+C:\Users\talle\Downloads\frieren x matrix\frieren x matrix\obj\Debug\frieren x matrix.csproj.GenerateResource.cache
+C:\Users\talle\Downloads\frieren x matrix\frieren x matrix\obj\Debug\frieren x matrix.csproj.CoreCompileInputs.cache
+C:\Users\talle\Downloads\frieren x matrix\frieren x matrix\bin\Debug\frieren x matrix.exe.config
+C:\Users\talle\Downloads\frieren x matrix\frieren x matrix\bin\Debug\frieren x matrix.exe
+C:\Users\talle\Downloads\frieren x matrix\frieren x matrix\bin\Debug\frieren x matrix.pdb
+C:\Users\talle\Downloads\frieren x matrix\frieren x matrix\obj\Debug\frieren x matrix.exe
+C:\Users\talle\Downloads\frieren x matrix\frieren x matrix\obj\Debug\frieren x matrix.pdb
+C:\Users\talle\Downloads\frieren x matrix\frieren x matrix\obj\Debug\frieren x matrix.exe.config
+C:\Users\talle\Downloads\frieren x matrix\frieren x matrix\obj\Debug\VisorImagenes.Form1.resources
+E:\Programacion visual 1\frieren x matrix\frieren x matrix\bin\Debug\frieren x matrix.exe.config
+E:\Programacion visual 1\frieren x matrix\frieren x matrix\bin\Debug\frieren x matrix.exe
+E:\Programacion visual 1\frieren x matrix\frieren x matrix\bin\Debug\frieren x matrix.pdb
+E:\Programacion visual 1\frieren x matrix\frieren x matrix\obj\Debug\frieren x matrix.csproj.AssemblyReference.cache
+E:\Programacion visual 1\frieren x matrix\frieren x matrix\obj\Debug\frieren x matrix.exe.config
+E:\Programacion visual 1\frieren x matrix\frieren x matrix\obj\Debug\VisorImagenes.Form1.resources
+E:\Programacion visual 1\frieren x matrix\frieren x matrix\obj\Debug\frieren_x_matrix.Properties.Resources.resources
+E:\Programacion visual 1\frieren x matrix\frieren x matrix\obj\Debug\frieren x matrix.csproj.GenerateResource.cache
+E:\Programacion visual 1\frieren x matrix\frieren x matrix\obj\Debug\frieren x matrix.csproj.CoreCompileInputs.cache
+E:\Programacion visual 1\frieren x matrix\frieren x matrix\obj\Debug\frieren x matrix.exe
+E:\Programacion visual 1\frieren x matrix\frieren x matrix\obj\Debug\frieren x matrix.pdb
