@@ -1,0 +1,11 @@
+C:\Users\talle\Downloads\segundoplano1\segundoplano1\obj\Debug\segundoplano1.csproj.AssemblyReference.cache
+C:\Users\talle\Downloads\segundoplano1\segundoplano1\obj\Debug\OrdenamientoMultihilo.Form1.resources
+C:\Users\talle\Downloads\segundoplano1\segundoplano1\obj\Debug\segundoplano1.Properties.Resources.resources
+C:\Users\talle\Downloads\segundoplano1\segundoplano1\obj\Debug\segundoplano1.csproj.GenerateResource.cache
+C:\Users\talle\Downloads\segundoplano1\segundoplano1\obj\Debug\segundoplano1.csproj.CoreCompileInputs.cache
+C:\Users\talle\Downloads\segundoplano1\segundoplano1\bin\Debug\segundoplano1.exe.config
+C:\Users\talle\Downloads\segundoplano1\segundoplano1\bin\Debug\segundoplano1.exe
+C:\Users\talle\Downloads\segundoplano1\segundoplano1\bin\Debug\segundoplano1.pdb
+C:\Users\talle\Downloads\segundoplano1\segundoplano1\obj\Debug\segundoplano1.exe
+C:\Users\talle\Downloads\segundoplano1\segundoplano1\obj\Debug\segundoplano1.pdb
+C:\Users\talle\Downloads\segundoplano1\segundoplano1\obj\Debug\segundoplano1.exe.config
